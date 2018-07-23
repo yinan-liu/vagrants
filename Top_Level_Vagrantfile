@@ -177,7 +177,7 @@ couchbase_download_links = {
   "ubuntu16"   => "#{couchbase_releases}/#{version}/couchbase-server-enterprise_#{version}-ubuntu16.04_amd64",
 }
 
-default_number_of_nodes = 4
+default_number_of_nodes = 2
 default_RAM_in_MB = 1024
 default_number_of_cpus = 1
 
